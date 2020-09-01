@@ -1,6 +1,5 @@
 # Study2-spoofing_arp
 
-# Study2-send_arp
 
 피해자 컴퓨터에서 확인한 ARP Table
 
